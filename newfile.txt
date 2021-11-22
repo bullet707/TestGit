@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 weggerrh3hw
+=======
+qwedfgfdswq
+dhfssh
+sdfh
+>>>>>>> old_branch
